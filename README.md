@@ -1,2 +1,7 @@
-# School-Registration-System
-This application is entitled "School Registration System". This is a simple web-based application developed in Python and Django Framework. The main purpose of this simple project is to provide a certain school with an online platform to manage, store, and retrieve the students' list.
+Download PIP and Python
+Open a terminal change your current directory to the source code folder path.
+Execute the following commands:
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
+Browse the system in your preferred browser.
